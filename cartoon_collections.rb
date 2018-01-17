@@ -7,17 +7,11 @@ def summon_captain_planet(arr)
 end
 
 def long_planeteer_calls(arr)
- i = 0
- while i<arr.length do
+ 
    arr.each do |x|
     if x.length > 4
       return true 
     end 
-  end
-end
-else 
-  return false
-end
 end
 
 def find_the_cheese# code an argument here
