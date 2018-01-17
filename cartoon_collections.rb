@@ -8,7 +8,7 @@ end
 
 def long_planeteer_calls(arr)
  i = 0
- if i<arr.length do
+ while i<arr.length do
    arr.each do |x|
     if x.length > 4
       return true 
