@@ -7,7 +7,9 @@ def summon_captain_planet(arr)
 end
 
 def long_planeteer_calls(arr)
-  
+  arr.each do |x|
+    if   
+  end
 end
 
 def find_the_cheese# code an argument here
