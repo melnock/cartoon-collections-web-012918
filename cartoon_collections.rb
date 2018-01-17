@@ -15,9 +15,8 @@ def long_planeteer_calls(arr)
     end 
   end
 end
-else do 
+else 
   return false
-  end
 end
 end
 
